@@ -20,7 +20,7 @@ O projeto foi construído sobre o pilar da **Arquitetura Orientada a Eventos (Ev
 
 O fluxo de trabalho completo da automação está visualmente representado no diagrama a seguir, que detalha a relação e a comunicação assíncrona entre os serviços.
 
-**Link Direto para o Diagrama:** [Visualizar Arquitetura Detalhada](images/arquitetura.png)
+![Diagrama de Arquitetura Serverless - S3 e Lambda](images/arquitetura.png)
 
 
 ---
