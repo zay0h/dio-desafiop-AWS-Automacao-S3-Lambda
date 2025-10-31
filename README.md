@@ -71,4 +71,4 @@ O desafio consolidou o entendimento sobre os aspectos conceituais e operacionais
 
 O rascunho da lógica que seria implementada na Função AWS Lambda, com foco na extração dos metadados do evento S3, pode ser encontrado no arquivo:
 
-[src/lambda_function.py](./src/lambda_function.py)
+[src/lambda_function.py](src/lambda_function.py)
